@@ -1,5 +1,5 @@
 /*  The following code shows an example of generating an XY scatter plot
-using the JFreeChart package for Java.*/
+using the JFreeChart package for the Java programming language.*/
 package scatterplotexample;
 
 //Libraries needed to make the scatter plot.
